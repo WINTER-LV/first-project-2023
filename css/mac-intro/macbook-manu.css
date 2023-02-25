@@ -1,0 +1,19 @@
+.apple-manu{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding: 10px 30px;
+    align-items: center;
+}
+
+.fa-search{
+    padding-right: 20px;
+}
+.fa-bars{
+    padding-left: 20px;
+}
+
+.apple-manu__bar i{
+    color: white;
+}
+
