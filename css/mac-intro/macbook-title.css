@@ -1,0 +1,45 @@
+.apple-title{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+   padding: 10px 20px;
+   align-items: center;
+   border-bottom: 1px solid rgb(255, 255, 255);
+ 
+}
+
+.apple-title__bar .pro{
+ font-size: 25px;
+ color: white;
+
+}
+  
+.apple-title__bar .buy{
+background-color: rgb(111, 111, 230);
+border-radius: 15px;
+padding: 5px 10px;
+color: white;
+text-decoration: none;
+}
+
+.buy:active{
+    
+    background-color: rgba(255, 0, 0,0.6);
+
+}
+
+.fa-chevron-down{
+    padding-right: 20px;
+    color: white;
+  }
+
+
+  .apple-title__model{
+    padding-bottom: 20px;
+  }
+
+  .apple-title__model p{
+    padding-bottom: 5px;
+    color: white;
+  }
+
