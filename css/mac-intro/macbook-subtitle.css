@@ -1,0 +1,42 @@
+.apple-subtitle{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+  margin-top: 20px;
+  color: white;
+
+}
+
+.sub-span{
+    margin-top: 5px;
+}
+
+.sub-mark{
+    color:  rgb(111, 111, 230);
+}
+
+
+.mac-img{
+    display: flex;
+    justify-content: center;
+
+}
+
+.mac-img__file{
+   max-width: 100%;
+   width: auto;
+}
+
+    
+
+
+.sub-content{
+    display: flex;
+    justify-content: center;
+}
+
+.sub-content__under{
+    color: white;
+    font-size: 20px;
+    
+}
