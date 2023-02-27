@@ -1,0 +1,32 @@
+.product-combo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+}
+
+
+
+.product-combo__imge {
+width: 250px;
+height: 150px;
+padding-left: 10px;
+}
+
+
+
+.product-combo__imge2{
+ width: 250px;
+ height: 150px;
+ padding-right: 10px;
+}
+
+
+
+.product-combo__imge3{
+    width: 250px;
+    height: 150px;
+    padding-left: 10px;
+    }
+
+    
