@@ -28,3 +28,12 @@
 .status-bar__column:last-child i{
     margin-left:8px ;
 }
+
+
+.status-bar__wrapper{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+}
