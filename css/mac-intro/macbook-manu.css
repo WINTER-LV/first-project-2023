@@ -17,3 +17,14 @@
     color: white;
 }
 
+.apple-manu__wrapper{
+position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+}
+
+.apple-manu__bar:first-child i:active{
+ color:rgba(255, 0, 0,0.6) ;
+}
