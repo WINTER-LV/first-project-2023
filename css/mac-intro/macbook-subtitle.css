@@ -13,8 +13,17 @@
 
 .sub-mark{
     color:  rgb(111, 111, 230);
+    
+    
 }
 
+.sub-mark i{
+    padding-left: 3px;
+}
+
+.sub-mark:active{
+    color: rgba(255, 0, 0,0.6);
+}
 
 .mac-img{
     display: flex;
