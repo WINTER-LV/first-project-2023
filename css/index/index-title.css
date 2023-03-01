@@ -13,8 +13,7 @@
 
 .apple-ecosystem__title h5{
     font-size: 17px;
-    display: flex;
-    justify-content: center;
+    text-align: center;
     color: white;
     margin-top: 30px;
     
