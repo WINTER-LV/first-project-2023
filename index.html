@@ -43,12 +43,13 @@
 </header>
 
 <main class="login-form">
-    <form action="mac-intro.html" method="get"  class="login-form__type">
-        <input type="text" placeholder="User Name or Email" required />
+    <form class="login-form__type">
+        <input id="input-username" type="text" placeholder="User Name or Email" required />
         <i class="fas fa-user fa-lg"></i>
-        <input type="password" minlength="10" placeholder="password" required />
+        <input id="input-userpw" type="password" minlength="10" placeholder="password" required />
         <i class="fas fa-lock fa-lg"></i>
-        <input type="submit" value="Log in"/>
+        <h3 id="hello-user"></h3>
+        <input id="none-hidden" type="submit" value="Log in"/>
     </form>
 </main>
 
@@ -64,12 +65,14 @@
 
 
 <div class="bac-img">
-<img src="img/back-img.jpeg"/>
+<img src="img/배경화면2.jpeg"/>
 </div>
 
     <script
     src="https://kit.fontawesome.com/6478f529f2.js"
     crossorigin="anonymous"
   ></script>
+
+  <script src="login.js"></script>
 </body>
 </html>
